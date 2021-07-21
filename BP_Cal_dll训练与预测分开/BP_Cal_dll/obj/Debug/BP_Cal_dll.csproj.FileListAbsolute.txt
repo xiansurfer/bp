@@ -1,0 +1,61 @@
+F:\onedriveedumail\OneDrive - student.cup.edu.cn\电潜泵智能优化\8.诊断部分相关代码材料\BP\BP\BP_Cal_dll\BP_Cal_dll\bin\Debug\BP_Cal_dll.exe.config
+F:\onedriveedumail\OneDrive - student.cup.edu.cn\电潜泵智能优化\8.诊断部分相关代码材料\BP\BP\BP_Cal_dll\BP_Cal_dll\bin\Debug\BP_Cal_dll.exe
+F:\onedriveedumail\OneDrive - student.cup.edu.cn\电潜泵智能优化\8.诊断部分相关代码材料\BP\BP\BP_Cal_dll\BP_Cal_dll\bin\Debug\BP_Cal_dll.pdb
+F:\onedriveedumail\OneDrive - student.cup.edu.cn\电潜泵智能优化\8.诊断部分相关代码材料\BP\BP\BP_Cal_dll\BP_Cal_dll\bin\Debug\BP.dll
+F:\onedriveedumail\OneDrive - student.cup.edu.cn\电潜泵智能优化\8.诊断部分相关代码材料\BP\BP\BP_Cal_dll\BP_Cal_dll\bin\Debug\Matrix_Mul.dll
+F:\onedriveedumail\OneDrive - student.cup.edu.cn\电潜泵智能优化\8.诊断部分相关代码材料\BP\BP\BP_Cal_dll\BP_Cal_dll\bin\Debug\NPOI.dll
+F:\onedriveedumail\OneDrive - student.cup.edu.cn\电潜泵智能优化\8.诊断部分相关代码材料\BP\BP\BP_Cal_dll\BP_Cal_dll\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\onedriveedumail\OneDrive - student.cup.edu.cn\电潜泵智能优化\8.诊断部分相关代码材料\BP\BP\BP_Cal_dll\BP_Cal_dll\bin\Debug\BP.pdb
+F:\onedriveedumail\OneDrive - student.cup.edu.cn\电潜泵智能优化\8.诊断部分相关代码材料\BP\BP\BP_Cal_dll\BP_Cal_dll\bin\Debug\Matrix_Mul.pdb
+F:\onedriveedumail\OneDrive - student.cup.edu.cn\电潜泵智能优化\8.诊断部分相关代码材料\BP\BP\BP_Cal_dll\BP_Cal_dll\obj\Debug\BP_Cal_dll.csprojAssemblyReference.cache
+F:\onedriveedumail\OneDrive - student.cup.edu.cn\电潜泵智能优化\8.诊断部分相关代码材料\BP\BP\BP_Cal_dll\BP_Cal_dll\obj\Debug\BP_Cal_dll.csproj.ResolveComReference.cache
+F:\onedriveedumail\OneDrive - student.cup.edu.cn\电潜泵智能优化\8.诊断部分相关代码材料\BP\BP\BP_Cal_dll\BP_Cal_dll\obj\Debug\BP_Cal_dll.Form1.resources
+F:\onedriveedumail\OneDrive - student.cup.edu.cn\电潜泵智能优化\8.诊断部分相关代码材料\BP\BP\BP_Cal_dll\BP_Cal_dll\obj\Debug\BP_Cal_dll.Properties.Resources.resources
+F:\onedriveedumail\OneDrive - student.cup.edu.cn\电潜泵智能优化\8.诊断部分相关代码材料\BP\BP\BP_Cal_dll\BP_Cal_dll\obj\Debug\BP_Cal_dll.csproj.GenerateResource.cache
+F:\onedriveedumail\OneDrive - student.cup.edu.cn\电潜泵智能优化\8.诊断部分相关代码材料\BP\BP\BP_Cal_dll\BP_Cal_dll\obj\Debug\BP_Cal_dll.csproj.CoreCompileInputs.cache
+F:\onedriveedumail\OneDrive - student.cup.edu.cn\电潜泵智能优化\8.诊断部分相关代码材料\BP\BP\BP_Cal_dll\BP_Cal_dll\obj\Debug\BP_Cal_dll.csproj.CopyComplete
+F:\onedriveedumail\OneDrive - student.cup.edu.cn\电潜泵智能优化\8.诊断部分相关代码材料\BP\BP\BP_Cal_dll\BP_Cal_dll\obj\Debug\BP_Cal_dll.exe
+F:\onedriveedumail\OneDrive - student.cup.edu.cn\电潜泵智能优化\8.诊断部分相关代码材料\BP\BP\BP_Cal_dll\BP_Cal_dll\obj\Debug\BP_Cal_dll.pdb
+F:\onedriveedumail\OneDrive - student.cup.edu.cn\电潜泵智能优化\8.诊断部分相关代码材料\BP\BP_Cal_dll训练与预测分开\BP_Cal_dll\bin\Debug\BP_Cal_dll.exe.config
+F:\onedriveedumail\OneDrive - student.cup.edu.cn\电潜泵智能优化\8.诊断部分相关代码材料\BP\BP_Cal_dll训练与预测分开\BP_Cal_dll\bin\Debug\BP_Cal_dll.exe
+F:\onedriveedumail\OneDrive - student.cup.edu.cn\电潜泵智能优化\8.诊断部分相关代码材料\BP\BP_Cal_dll训练与预测分开\BP_Cal_dll\bin\Debug\BP_Cal_dll.pdb
+F:\onedriveedumail\OneDrive - student.cup.edu.cn\电潜泵智能优化\8.诊断部分相关代码材料\BP\BP_Cal_dll训练与预测分开\BP_Cal_dll\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\onedriveedumail\OneDrive - student.cup.edu.cn\电潜泵智能优化\8.诊断部分相关代码材料\BP\BP_Cal_dll训练与预测分开\BP_Cal_dll\bin\Debug\BP.pdb
+F:\onedriveedumail\OneDrive - student.cup.edu.cn\电潜泵智能优化\8.诊断部分相关代码材料\BP\BP_Cal_dll训练与预测分开\BP_Cal_dll\bin\Debug\Matrix_Mul.pdb
+F:\onedriveedumail\OneDrive - student.cup.edu.cn\电潜泵智能优化\8.诊断部分相关代码材料\BP\BP_Cal_dll训练与预测分开\BP_Cal_dll\obj\Debug\BP_Cal_dll.csprojAssemblyReference.cache
+F:\onedriveedumail\OneDrive - student.cup.edu.cn\电潜泵智能优化\8.诊断部分相关代码材料\BP\BP_Cal_dll训练与预测分开\BP_Cal_dll\obj\Debug\BP_Cal_dll.csproj.ResolveComReference.cache
+F:\onedriveedumail\OneDrive - student.cup.edu.cn\电潜泵智能优化\8.诊断部分相关代码材料\BP\BP_Cal_dll训练与预测分开\BP_Cal_dll\obj\Debug\BP_Cal_dll.Form1.resources
+F:\onedriveedumail\OneDrive - student.cup.edu.cn\电潜泵智能优化\8.诊断部分相关代码材料\BP\BP_Cal_dll训练与预测分开\BP_Cal_dll\obj\Debug\BP_Cal_dll.Properties.Resources.resources
+F:\onedriveedumail\OneDrive - student.cup.edu.cn\电潜泵智能优化\8.诊断部分相关代码材料\BP\BP_Cal_dll训练与预测分开\BP_Cal_dll\obj\Debug\BP_Cal_dll.csproj.GenerateResource.cache
+F:\onedriveedumail\OneDrive - student.cup.edu.cn\电潜泵智能优化\8.诊断部分相关代码材料\BP\BP_Cal_dll训练与预测分开\BP_Cal_dll\obj\Debug\BP_Cal_dll.csproj.CoreCompileInputs.cache
+F:\onedriveedumail\OneDrive - student.cup.edu.cn\电潜泵智能优化\8.诊断部分相关代码材料\BP\BP_Cal_dll训练与预测分开\BP_Cal_dll\obj\Debug\BP_Cal_dll.csproj.CopyComplete
+F:\onedriveedumail\OneDrive - student.cup.edu.cn\电潜泵智能优化\8.诊断部分相关代码材料\BP\BP_Cal_dll训练与预测分开\BP_Cal_dll\obj\Debug\BP_Cal_dll.exe
+F:\onedriveedumail\OneDrive - student.cup.edu.cn\电潜泵智能优化\8.诊断部分相关代码材料\BP\BP_Cal_dll训练与预测分开\BP_Cal_dll\obj\Debug\BP_Cal_dll.pdb
+G:\onedrive-edu\OneDrive - student.cup.edu.cn\电潜泵智能优化\8.诊断部分相关代码材料\BP\BP_Cal_dll训练与预测分开-10工况\BP_Cal_dll训练与预测分开\BP_Cal_dll\bin\Debug\BP_Cal_dll.exe.config
+G:\onedrive-edu\OneDrive - student.cup.edu.cn\电潜泵智能优化\8.诊断部分相关代码材料\BP\BP_Cal_dll训练与预测分开-10工况\BP_Cal_dll训练与预测分开\BP_Cal_dll\bin\Debug\BP_Cal_dll.exe
+G:\onedrive-edu\OneDrive - student.cup.edu.cn\电潜泵智能优化\8.诊断部分相关代码材料\BP\BP_Cal_dll训练与预测分开-10工况\BP_Cal_dll训练与预测分开\BP_Cal_dll\bin\Debug\BP_Cal_dll.pdb
+G:\onedrive-edu\OneDrive - student.cup.edu.cn\电潜泵智能优化\8.诊断部分相关代码材料\BP\BP_Cal_dll训练与预测分开-10工况\BP_Cal_dll训练与预测分开\BP_Cal_dll\bin\Debug\ICSharpCode.SharpZipLib.dll
+G:\onedrive-edu\OneDrive - student.cup.edu.cn\电潜泵智能优化\8.诊断部分相关代码材料\BP\BP_Cal_dll训练与预测分开-10工况\BP_Cal_dll训练与预测分开\BP_Cal_dll\bin\Debug\Matrix_Mul.pdb
+G:\onedrive-edu\OneDrive - student.cup.edu.cn\电潜泵智能优化\8.诊断部分相关代码材料\BP\BP_Cal_dll训练与预测分开-10工况\BP_Cal_dll训练与预测分开\BP_Cal_dll\obj\Debug\BP_Cal_dll.csprojAssemblyReference.cache
+G:\onedrive-edu\OneDrive - student.cup.edu.cn\电潜泵智能优化\8.诊断部分相关代码材料\BP\BP_Cal_dll训练与预测分开-10工况\BP_Cal_dll训练与预测分开\BP_Cal_dll\obj\Debug\BP_Cal_dll.csproj.ResolveComReference.cache
+G:\onedrive-edu\OneDrive - student.cup.edu.cn\电潜泵智能优化\8.诊断部分相关代码材料\BP\BP_Cal_dll训练与预测分开-10工况\BP_Cal_dll训练与预测分开\BP_Cal_dll\obj\Debug\BP_Cal_dll.Form1.resources
+G:\onedrive-edu\OneDrive - student.cup.edu.cn\电潜泵智能优化\8.诊断部分相关代码材料\BP\BP_Cal_dll训练与预测分开-10工况\BP_Cal_dll训练与预测分开\BP_Cal_dll\obj\Debug\BP_Cal_dll.Properties.Resources.resources
+G:\onedrive-edu\OneDrive - student.cup.edu.cn\电潜泵智能优化\8.诊断部分相关代码材料\BP\BP_Cal_dll训练与预测分开-10工况\BP_Cal_dll训练与预测分开\BP_Cal_dll\obj\Debug\BP_Cal_dll.csproj.GenerateResource.cache
+G:\onedrive-edu\OneDrive - student.cup.edu.cn\电潜泵智能优化\8.诊断部分相关代码材料\BP\BP_Cal_dll训练与预测分开-10工况\BP_Cal_dll训练与预测分开\BP_Cal_dll\obj\Debug\BP_Cal_dll.csproj.CopyComplete
+G:\onedrive-edu\OneDrive - student.cup.edu.cn\电潜泵智能优化\8.诊断部分相关代码材料\BP\BP_Cal_dll训练与预测分开-10工况\BP_Cal_dll训练与预测分开\BP_Cal_dll\obj\Debug\BP_Cal_dll.exe
+G:\onedrive-edu\OneDrive - student.cup.edu.cn\电潜泵智能优化\8.诊断部分相关代码材料\BP\BP_Cal_dll训练与预测分开-10工况\BP_Cal_dll训练与预测分开\BP_Cal_dll\obj\Debug\BP_Cal_dll.pdb
+G:\onedrive-edu\OneDrive - student.cup.edu.cn\电潜泵智能优化\8.诊断部分相关代码材料\BP\BP_Cal_dll训练与预测分开-10工况\BP_Cal_dll训练与预测分开\BP_Cal_dll\obj\Debug\BP_Cal_dll.csproj.CoreCompileInputs.cache
+F:\BP_Cal_dll训练与预测分开-10工况\BP_Cal_dll训练与预测分开\BP_Cal_dll\bin\Debug\BP_Cal_dll.exe.config
+F:\BP_Cal_dll训练与预测分开-10工况\BP_Cal_dll训练与预测分开\BP_Cal_dll\bin\Debug\BP_Cal_dll.exe
+F:\BP_Cal_dll训练与预测分开-10工况\BP_Cal_dll训练与预测分开\BP_Cal_dll\bin\Debug\BP_Cal_dll.pdb
+F:\BP_Cal_dll训练与预测分开-10工况\BP_Cal_dll训练与预测分开\BP_Cal_dll\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\BP_Cal_dll训练与预测分开-10工况\BP_Cal_dll训练与预测分开\BP_Cal_dll\bin\Debug\Matrix_Mul.pdb
+F:\BP_Cal_dll训练与预测分开-10工况\BP_Cal_dll训练与预测分开\BP_Cal_dll\obj\Debug\BP_Cal_dll.csprojAssemblyReference.cache
+F:\BP_Cal_dll训练与预测分开-10工况\BP_Cal_dll训练与预测分开\BP_Cal_dll\obj\Debug\BP_Cal_dll.csproj.ResolveComReference.cache
+F:\BP_Cal_dll训练与预测分开-10工况\BP_Cal_dll训练与预测分开\BP_Cal_dll\obj\Debug\BP_Cal_dll.Form1.resources
+F:\BP_Cal_dll训练与预测分开-10工况\BP_Cal_dll训练与预测分开\BP_Cal_dll\obj\Debug\BP_Cal_dll.Properties.Resources.resources
+F:\BP_Cal_dll训练与预测分开-10工况\BP_Cal_dll训练与预测分开\BP_Cal_dll\obj\Debug\BP_Cal_dll.csproj.GenerateResource.cache
+F:\BP_Cal_dll训练与预测分开-10工况\BP_Cal_dll训练与预测分开\BP_Cal_dll\obj\Debug\BP_Cal_dll.csproj.CoreCompileInputs.cache
+F:\BP_Cal_dll训练与预测分开-10工况\BP_Cal_dll训练与预测分开\BP_Cal_dll\obj\Debug\BP_Cal_dll.csproj.CopyComplete
+F:\BP_Cal_dll训练与预测分开-10工况\BP_Cal_dll训练与预测分开\BP_Cal_dll\obj\Debug\BP_Cal_dll.exe
+F:\BP_Cal_dll训练与预测分开-10工况\BP_Cal_dll训练与预测分开\BP_Cal_dll\obj\Debug\BP_Cal_dll.pdb
