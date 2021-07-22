@@ -63,7 +63,25 @@ def output_Excel_DataProcessing(Input_A,MixtureMatrix,OutputMatrix,WorkingCondit
         worksheet.write(0, k - 1 + 11,'工况矩阵%i'%(k-1))
     workbooks.save('NormMatrix.xlsx')
     df = pd.read_excel('NormMatrix.xlsx')
-    return df.values
+    workcondition = df['工况情况'].to_numpy()
+
+    """ 
+    找出各种工况情况第一行的索引，然后将这一行的值赋给row
+    再把row放入add_list,最终形成一个add_arr
+    把add_arr和之前的原始表合并在一起
+    最终还要把加了多少行(add_arr.shape[0])传递出去，之后要删掉对应的行数
+    """
+    add_list = []
+    flag = -1
+    for i in range(len(workcondition)):
+        if flag != workcondition[i]:
+            flag = workcondition[i]
+            row = df.iloc[i]
+            add_list.append(row)
+    add_arr = np.array(add_list)
+    dat2 = np.vstack([add_arr,df.values])
+
+    return dat2,add_arr.shape[0]
 
 def current_data_analyze(path):
     # 读取excel文件
@@ -101,7 +119,7 @@ def current_data_analyze(path):
     OutputMatrix = CACP.OutputProcessing(CACP.Output_A)
     # df_OutputMatrix = Matrix_check(OutputMatrix)
 
-    dat2 = output_Excel_DataProcessing(CACP.Input_A, MixtureMatrix, OutputMatrix, CACP.WorkingCondition)
+    dat2,add_rows = output_Excel_DataProcessing(CACP.Input_A, MixtureMatrix, OutputMatrix, CACP.WorkingCondition)
     dat2_Rows_Count = dat2.shape[0]
     dat2_Columns_Count = dat2.shape[1]
 
@@ -155,7 +173,7 @@ def current_data_analyze(path):
     bp.comprehensiveEvaluation = [0.3009, 0.2201, 0.2696, 0.1793]
     bp.ComEvaluation(bp.comprehensiveEvaluation)
 
-    return bp.output_test_Norm, bp.fore_test
+    return bp.output_test_Norm, bp.fore_test,add_rows
 
 def result_process(result_Matrix):
     for i in range(result_Matrix.m):
@@ -169,15 +187,15 @@ def result_process(result_Matrix):
 
     return result_Matrix
 
-def output_Excel(output_test_Norm,fore_test):
+def output_Excel(output_test_Norm,fore_test,add_rows):
     workbook = xlwt.Workbook()
     worksheet = workbook.add_sheet('sheet1')
     fore_test = result_process(fore_test)
-    for i in range(1,fore_test.m+1):
+    for i in range(1+add_rows,fore_test.m+1):
         max = -100
         flag = fore_test.m*[0]
         for j in range(1,fore_test.n + 1):
-            worksheet.write(i-1,j-1,fore_test.read(i - 1, j - 1))
+            worksheet.write(i-1-add_rows,j-1,fore_test.read(i - 1, j - 1))
             if fore_test.read(i - 1, j - 1) > max:
                 max = fore_test.read(i-1, j-1)
                 flag[i-1] = j
@@ -193,8 +211,8 @@ def output_Excel(output_test_Norm,fore_test):
                 abs(fore_test.read(i - 1, 0) - fore_test.read(i - 1, 9)) < 0.00001):
             flag[i - 1] = 11
 
-        worksheet.write(i-1,fore_test.n,flag[i - 1])
+        worksheet.write(i-1-add_rows,fore_test.n,flag[i - 1])
         workbook.save('result.xlsx')
 
-output_test_Norm,fore_test = current_data_analyze('ArmpsCardData12工况.xls')
-output_Excel(output_test_Norm,fore_test)
+output_test_Norm,fore_test,add_rows = current_data_analyze('ArmpsCardData12工况.xls')
+output_Excel(output_test_Norm,fore_test,add_rows)
