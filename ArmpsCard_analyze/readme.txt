@@ -1,0 +1,6 @@
+利用python调用dll
+复现了C#做电流卡片计算的过程
+一次只能计算一个文件
+生成NormMatrix和result两个excel文件
+NormMatrix是中间参数
+result是最终结果
